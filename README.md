@@ -19,4 +19,7 @@ This project is an end-to-end data engineering and business analytics case study
 * **Layer 1: Data Preparation:** Quality checks, indexing, and master table architecture.
 * **Layer 2: Business Metrics & Root Cause Analysis:** Geographic revenue, delivery speed correlation, and regional anomaly investigation.
 * **Layer 3: Customer Segmentation (RFM):** Python-driven behavioral scoring and retention strategy.
-  [for detailed case study click this ](Detailed_Case_Study.md)
+
+
+
+[for detailed case study click this ](Detailed_Case_Study.md)
